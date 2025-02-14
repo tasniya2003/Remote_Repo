@@ -1,4 +1,4 @@
-public class new
+public class javahello
 {
 public static void main(String args[])
 {
